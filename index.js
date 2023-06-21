@@ -34,5 +34,5 @@ if (input === '+') {
 }
 // storing the result in a variable , then console logging that result to the user !
 result = calculus(firstNumber,secondNumber);
-console.log('the result for this equation is ' + result);
+console.log('the result for this equation is ' + result) + ' thank you for the challenge !';
 
